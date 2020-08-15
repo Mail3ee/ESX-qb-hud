@@ -4,13 +4,10 @@ description 'Qbus:Inventory'
 
 server_scripts {
 	"config.lua",
-	"server/money.lua",
-	"server/main.lua",
 }
 
 client_scripts {
 	"config.lua",
-	"client/money.lua",
 	"client/main.lua",
 	"client/ui.lua",
 }
